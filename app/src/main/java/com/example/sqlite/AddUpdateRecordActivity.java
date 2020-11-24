@@ -122,7 +122,7 @@ public class AddUpdateRecordActivity extends AppCompatActivity {
                 ""+email,
                 ""+dob,
                 ""+timestamp,
-                ""+timestamp5
+                ""+timestamp
         );
 
         Toast.makeText(this, "Record Added against ID :" + id, Toast.LENGTH_SHORT).show();
